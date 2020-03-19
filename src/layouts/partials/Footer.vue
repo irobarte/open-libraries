@@ -18,14 +18,3 @@
 <script>
 export default {}
 </script>
-
-<static-query>
-query {
-  metadata {
-    social {
-      icon
-      link
-    }
-  }
-}
-</static-query>
