@@ -5,4 +5,4 @@ This resource was created from [data gathered by the Association of Research Lib
 
 ## Credits
 
-* This starter was initial created by [Joseph Dyer](https://github.com/josephdyer).
+* This starter kit was initial created by [Joseph Dyer](https://github.com/josephdyer).
